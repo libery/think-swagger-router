@@ -1,4 +1,4 @@
-# think-controller
+# think-swagger-router
 
 [![Build Status](https://img.shields.io/travis/libery/think-swagger-router/master.svg?style=flat-square)](https://travis-ci.org/libery/think-swagger-router)
 [![Coverage Status](https://img.shields.io/coveralls/libery/think-swagger-router/master.svg?style=flat-square)](https://coveralls.io/github/libery/think-swagger-router?branch=master)
